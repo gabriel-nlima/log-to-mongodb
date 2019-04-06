@@ -1,0 +1,20 @@
+{
+  "name": "log-to-mongodb",
+  "version": "1.0.0",
+  "description": "Insere logs do sistema em JSON no MongoDB",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabriel-nlima/log-to-mongodb"
+  },
+  "keywords": [
+    "mongodb",
+    "logs",
+    "nodejs"
+  ],
+  "author": "Gabriel Lima",
+  "dependencies": {
+    "mongodb": "^3.1.10",
+  }
+}
